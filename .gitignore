@@ -3,7 +3,6 @@ node_modules
 #Hardhat files
 cache
 artifacts
-.vscode
 .env
 .yarn
 .yarnrc.yml
@@ -12,3 +11,7 @@ yarn.lock
 
 .DS_Store
 test.ts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
